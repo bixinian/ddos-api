@@ -18,6 +18,6 @@ telegram: @zuras0
 API LINK:
 http://VPSIP/api.php?key=zurasapi&host=[host]&port=[port]&time=[time]&method=[method]
 
-
+have fun
 
 zuras api
